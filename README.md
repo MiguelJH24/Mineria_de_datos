@@ -11,3 +11,5 @@
 [Tarea 3 - Ejercicios Basicos de Python](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/Ejercicios%20Basicos%20de%20Python.ipynb)
 
 [Avace 1 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
+
+[Ejercicio Limpieza de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ej_Limpieza_8.ipynb)
