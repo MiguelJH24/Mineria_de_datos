@@ -2,7 +2,7 @@
 
 # Mineria_de_datos
 
-## FASE 1
+## FASE I
 
 [Tarea 1 - Mapa Mental](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/MapaMental_1_1857876.pdf)
 
@@ -13,3 +13,7 @@
 [Avace 1 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
 
 [Ejercicio Limpieza de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ej_Limpieza_8.ipynb)
+
+## FASE II
+
+[Presentación - Metricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Presentacion_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
