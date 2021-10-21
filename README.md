@@ -24,5 +24,8 @@
 
 [Ejercicio de visualización ](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Visualizaci%C3%B3n_Equipo8%20.ipynb)
 
+[Ejercicio tecnicas de mineria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
+
 [Avance 2 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
 
+[Notebook](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
