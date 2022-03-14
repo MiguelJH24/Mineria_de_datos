@@ -35,3 +35,7 @@
 [PIA Poster](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/SE%20FUNDE%20UN%20FOCO.png)
 
 [*Imagen Arbol de decision](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/ARBOL_DECISION.png)
+
+
+
+[Cosa fea](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/Pronostico_arma%20(1)%20(1).ipynb)
