@@ -38,4 +38,4 @@
 
 
 
-[Cosa fea](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/Pronostico_arma%20(1)%20(1).ipynb)
+[Hola rEinaLP](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/PIA%20Estadistica.ipynb)
