@@ -38,4 +38,4 @@
 
 
 
-[Hola rEinaLP](https://github.com/MiguelJH24/Mineria_de_datos/blob/main/PIA%20Estadistica.ipynb)
+[Estadistica](https://github.com/MiguelJH24/Tareas_EstadisticaAplicada_18/blob/main/MAJH_1857876_VVAO_1855188_Estad%C3%ADsticaAplicadaG51_PIAa%20.ipynb)
